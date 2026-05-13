@@ -109,7 +109,7 @@ Used SQL queries to generate business insights.
 
 ## Step 1: Clone the Repository
 ```bash
-git clone <your-repository-link>
+[git clone <your-repository-link>](https://github.com/pittalasanjana/Zepto_Data_analysis_sql_project)
 ```
 
 ## Step 2: Open MySQL Workbench
